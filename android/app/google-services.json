@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959297761331",
+    "project_id": "volpehuberp",
+    "storage_bucket": "volpehuberp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959297761331:android:4f4221a1fcb6cc482bb346",
+        "android_client_info": {
+          "package_name": "com.schoolerpmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPodXxhSWW_juWk4jsSovRKrslOLO1us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
